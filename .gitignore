@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# bison
+gram.tab.c
+gram.tab.h
+
+#flex
+lex.yy.c
+
+main
+
